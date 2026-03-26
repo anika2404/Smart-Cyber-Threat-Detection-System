@@ -77,8 +77,8 @@ forensic/
 
 ### 🔹 Clone Repository
 
-git clone https://github.com/your-username/ai-dfir-tool.git
-cd ai-dfir-tool
+git clone https://github.com/anika2402/smart-cyber-threat-detection-system.git
+cd smart-cyber-threat-detection-system
 
 ---
 
