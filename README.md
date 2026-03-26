@@ -53,26 +53,6 @@ This project provides an **AI-driven solution** to:
 
 ---
 
-##  Project Structure
-
-forensic/
-│
-├── backend/
-│   ├── main.py
-│   ├── analyzer.py
-│   ├── model.pkl
-│   ├── encoders.pkl
-│   ├── report_generator.py
-│
-├── frontend/
-│   ├── app.py
-│
-├── data/
-│
-└── README.md
-
----
-
 ## ⚙️ Setup & Installation
 
 ### 🔹 Clone Repository
